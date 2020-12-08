@@ -6,7 +6,7 @@ I'm Adesina Abdulrahman. A Data scientist & Machine learning engineer. I combine
 - 🔭 I’m currently building an open source data tools which i will soon be done with.
 - 🌱 I’m currently learning Data structure & Algorithm again.
 - 👯 I’m looking to collaborate on Open source tools for data science and machine learning. 
-- 💬 Ask me about OSS, Machine learning, Data science.
+- 💬 Ask me about OSS, Machine learning, Data science,Research.
 - 📫 How to reach me: Email(adesinaabdulrahman16@gmail.com),  [linkedin](https://www.linkedin.com/in/adesinaabdulrahman/), [twitter](https://www.twitter.com/@AdesinaAbdulra9), [facebook](https://www.facebook.com/adesinaabdulrahman)
 - ⚡ Fun fact: I repair laptop
 - 🌱 I’m a Computer science undergraduate @ Ekiti state university.
