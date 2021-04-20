@@ -1,4 +1,4 @@
-Hi there 👋🏾. I'm Abdulrahman and passionate about creating an interdisciplinary impact with artificial intelligence!
+**Hi there 👋🏾. I'm Abdulrahman and passionate about creating an interdisciplinary impact with artificial intelligence!**
 
 🔭 I'm currently developing an actionable artficial intelligent apps on both Android and iOS for my Cancer Detection project.
 
