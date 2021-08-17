@@ -15,4 +15,4 @@ My latest writing is :
 
 - See more of my technical articles on [Hashnode](https://adesinaa.hashnode.dev/)
 
-- Currently working on my [website](https://AdesinaA.github.com) 
+- Currently working on my [website](https://AdesinaA.github.io/AdesinaAbdulrahman/) 
