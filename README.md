@@ -1,4 +1,4 @@
-**Hi there 👋🏾. 
+**Hi there 👋🏾. **
 
 My Name is Adesina Abdulrahman. I am a Software Engineer. I combine my knowledge of software and data science to build data driven products that can solve problems.
 
