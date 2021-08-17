@@ -1,7 +1,13 @@
-**Hi there 👋🏾. I'm Abdulrahman and passionate about creating an interdisciplinary impact with artificial intelligence!**
+**Hi there 👋🏾. 
 
-🔭 I'm currently developing an actionable artficial intelligent apps on both Android and iOS for my Cancer Detection project.
+My Name is Adesina Abdulrahman. I am a Software Engineer. I combine my knowledge of software and data science to build data driven products that can solve problems.
 
-🌱 I'm learning more on deep neural networks and convolution neural networks for the use case of autonomous systems.
+**Strong Language: Python
 
-😄 Pronouns: he/him
+👯 I’m looking to collaborate on open source tools for data science and machine learning.
+💬 Ask me about OSS, Software Engineering, Machine Learning and Data Science.
+📫 How to reach me: Email () Twitter, Linkedin.
+
+[Email](adesinaabdulrahman16@gmail.com)
+
+
